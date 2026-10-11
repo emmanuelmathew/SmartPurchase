@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartPurchase.Api/SmartPurchase.Api.csproj" />
+  <Project Path="SmartPurchase.Domain/SmartPurchase.Domain.csproj" />
+  <Project Path="SmartPurchase.Infrastructure/SmartPurchase.Infrastructure.csproj" />
+  <Project Path="SmartPurchase.Tests/SmartPurchase.Tests.csproj" />
+</Solution>
